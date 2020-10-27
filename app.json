@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/shi/shi",
+    "pages/ci/ci",
+    "pages/jing/jing",
+    "pages/renwu/renwu",
+    "pages/info/info",
+    "pages/info_jing/info_jing",
+    "pages/info_author/info_author",
+    "pages/lunyu/lunyu",
+    "pages/info_lunyu/info_lunyu",
+    "pages/mengzi/mengzi",
+    "pages/info_mengzi/info_mengzi",
+    "pages/daxue/daxue",
+    "pages/zhongyong/zhongyong",
+    "pages/youmengying/youmengying",
+    "pages/mengxue/mengxue",
+    "pages/guwenguanzhi/guwenguanzhi",
+    "pages/sishuwujinginfo/sishuwujinginfo",
+    "pages/mengxueinfo/mengxueinfo",
+    "pages/dizigui/dizigui",
+    "pages/guwenguanzhiinfo/guwenguanzhiinfo",
+    "pages/collect/collect"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "诗词百科全书",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "sitemapLocation": "sitemap.json"
+}
